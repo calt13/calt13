@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calt13
-- 👀 I’m interested in 8-Bit Famiclone 
+- 👀 I’m interested in 8-Bit Famiclones 
 - 🌱 I’m currently learning to implement a web-based nes-emulator
 
 <!---
